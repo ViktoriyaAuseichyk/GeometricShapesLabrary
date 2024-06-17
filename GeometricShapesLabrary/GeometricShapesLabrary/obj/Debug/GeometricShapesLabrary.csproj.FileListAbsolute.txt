@@ -1,0 +1,7 @@
+D:\Vika\GitHub\C--library-\GeometricShapesLabrary\GeometricShapesLabrary\bin\Debug\GeometricShapesLabrary.exe.config
+D:\Vika\GitHub\C--library-\GeometricShapesLabrary\GeometricShapesLabrary\bin\Debug\GeometricShapesLabrary.exe
+D:\Vika\GitHub\C--library-\GeometricShapesLabrary\GeometricShapesLabrary\bin\Debug\GeometricShapesLabrary.pdb
+D:\Vika\GitHub\C--library-\GeometricShapesLabrary\GeometricShapesLabrary\obj\Debug\GeometricShapesLabrary.csproj.AssemblyReference.cache
+D:\Vika\GitHub\C--library-\GeometricShapesLabrary\GeometricShapesLabrary\obj\Debug\GeometricShapesLabrary.csproj.CoreCompileInputs.cache
+D:\Vika\GitHub\C--library-\GeometricShapesLabrary\GeometricShapesLabrary\obj\Debug\GeometricShapesLabrary.exe
+D:\Vika\GitHub\C--library-\GeometricShapesLabrary\GeometricShapesLabrary\obj\Debug\GeometricShapesLabrary.pdb
