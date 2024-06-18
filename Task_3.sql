@@ -11,6 +11,7 @@ CREATE TABLE "Products" (
 CREATE TABLE "ProductsToCategories" (
 	"ID_Product"	INTEGER,
 	"ID_Categories"	INTEGER,
+	FOREIGN KEY("ID_Categories") REFERENCES "Categories"("ID"),
 	FOREIGN KEY("ID_Product") REFERENCES "Products"("ID")
 )
 
